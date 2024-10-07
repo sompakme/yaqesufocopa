@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yaqesufocopa.pages.dev/sitemap.xml
